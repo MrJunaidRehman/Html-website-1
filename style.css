@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Vidaloka&display=swap");
 :root {
-  --primary-color: blue;
+  --primary-color: #1b389d;
   --dark-color: #181818;
-  --light-color: yellow;
+  --light-color: #ffdd01;
 }
 
 body {
@@ -27,7 +27,7 @@ body {
 }
 header {
   display: flex;
-  width: 76%;
+  width: 95%;
   justify-content: flex-start;
   align-items: center;
 }
